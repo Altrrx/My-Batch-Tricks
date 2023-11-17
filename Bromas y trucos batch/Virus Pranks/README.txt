@@ -1,0 +1,1 @@
+To open a prank use this in command prompt "call example.bat" (you can also delete the .bat part)
