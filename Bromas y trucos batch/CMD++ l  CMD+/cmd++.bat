@@ -87,3 +87,6 @@ help
 
 echo ----------------------------- Color Help -----------------------------
 color atr
+cmd /k
+echo off
+
