@@ -5,8 +5,5 @@ cls
 echo START
 pause
 
-start cmd++
 cls
-echo Started!
-pause
-exit
+call cmd++
