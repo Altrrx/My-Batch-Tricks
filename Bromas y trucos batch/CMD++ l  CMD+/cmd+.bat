@@ -4,7 +4,7 @@ echo off
 :iniciar
 cls
 color BF
-title CMD++
+title CMD+
 
 help
 
