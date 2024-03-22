@@ -1,4 +1,6 @@
 @echo off
+echo off
+
 color 07
 title CMD++
 
